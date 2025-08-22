@@ -11,8 +11,8 @@
       {
          "type":"Feature",
          "properties":{
-            "NAME_1":"Jakarta Raya",
-            "province":"Jakarta Barat",
+            "NAME_1":"Jakarta",
+            "province":"Jakarta",
             "VARNAME_2":"Kota Jakarta Barat| West Jakarta"
          },
          "geometry":{
@@ -80,8 +80,8 @@
       {
          "type":"Feature",
          "properties":{
-            "NAME_1":"Jakarta Raya",
-            "province":"Jakarta Pusat",
+            "NAME_1":"Jakarta",
+            "province":"Jakarta",
             "VARNAME_2":"Kota Jakarta Pusat| Central Jakarta"
          },
          "geometry":{
@@ -137,8 +137,8 @@
       {
          "type":"Feature",
          "properties":{
-            "NAME_1":"Jakarta Raya",
-            "province":"Jakarta Selatan",
+            "NAME_1":"Jakarta",
+            "province":"Jakarta",
             "VARNAME_2":"Kota Jakarta Selatan| South Jakarta"
          },
          "geometry":{
@@ -202,8 +202,8 @@
       {
          "type":"Feature",
          "properties":{
-            "NAME_1":"Jakarta Raya",
-            "province":"Jakarta Timur",
+            "NAME_1":"Jakarta",
+            "province":"Jakarta",
             "VARNAME_2":"Kota Jakarta Timur| East Jakarta"
          },
          "geometry":{
@@ -271,8 +271,8 @@
       {
          "type":"Feature",
          "properties":{
-            "NAME_1":"Jakarta Raya",
-            "province":"Jakarta Utara",
+            "NAME_1":"Jakarta",
+            "province":"Jakarta",
             "VARNAME_2":"Kota Jakarta Utara| North Jakarta"
          },
          "geometry":{
@@ -15065,7 +15065,7 @@
       {
          "type":"Feature",
          "properties":{
-            "NAME_1":"Yogyakarta",
+            "NAME_1":"Jogja",
             "province":"Bantul",
             "VARNAME_2":""
          },
@@ -15170,7 +15170,7 @@
       {
          "type":"Feature",
          "properties":{
-            "NAME_1":"Yogyakarta",
+            "NAME_1":"Jogja",
             "province":"Gunung Kidul",
             "VARNAME_2":""
          },
@@ -15299,7 +15299,7 @@
       {
          "type":"Feature",
          "properties":{
-            "NAME_1":"Yogyakarta",
+            "NAME_1":"Jogja",
             "province":"Kulon Progo",
             "VARNAME_2":""
          },
@@ -15376,7 +15376,7 @@
       {
          "type":"Feature",
          "properties":{
-            "NAME_1":"Yogyakarta",
+            "NAME_1":"Jogja",
             "province":"Sleman",
             "VARNAME_2":""
          },
@@ -15469,8 +15469,8 @@
       {
          "type":"Feature",
          "properties":{
-            "NAME_1":"Yogyakarta",
-            "province":"Yogyakarta",
+            "NAME_1":"Jogja",
+            "province":"Jogja",
             "VARNAME_2":"Kota Yogyakarta"
          },
          "geometry":{
@@ -15616,7 +15616,7 @@
          "type":"Feature",
          "properties":{
             "NAME_1":"Banten",
-            "province":"Kota Tangerang",
+            "province":"Tanggerang",
             "VARNAME_2":""
          },
          "geometry":{
@@ -16420,7 +16420,7 @@
          "type":"Feature",
          "properties":{
             "NAME_1":"Banten",
-            "province":"Tangerang",
+            "province":"Tanggerang",
             "VARNAME_2":""
          },
          "geometry":{
